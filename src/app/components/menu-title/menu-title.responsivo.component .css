@@ -1,0 +1,11 @@
+@media screen and (max-width:600px){
+  .menu-title-container > h1{
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width:600px){
+  .menu-title-container > img{
+    margin-left: 75px;
+  }
+}

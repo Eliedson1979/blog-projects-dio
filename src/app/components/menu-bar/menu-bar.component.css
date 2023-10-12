@@ -1,0 +1,14 @@
+.manu-bar-container{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.manu-bar-container > ul{
+  display: flex;
+  flex-direction: row;
+}
+
+.manu-bar-container > ul > li{
+  margin-right: 20px;
+  list-style: none;
+}
